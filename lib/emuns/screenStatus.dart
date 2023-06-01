@@ -1,0 +1,5 @@
+
+enum ScreenStatus {
+  bussy,
+  active,
+}

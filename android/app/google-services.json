@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "419685256119",
+    "firebase_url": "https://nourrestaurant-2513c-default-rtdb.firebaseio.com",
+    "project_id": "nourrestaurant-2513c",
+    "storage_bucket": "nourrestaurant-2513c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419685256119:android:7d356a8689116557713632",
+        "android_client_info": {
+          "package_name": "com.abdelrahmanashraf.foolnour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419685256119-6qs55890vljvmitf8jmh3bu1q5p1k2ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdelrahmanashraf.foolnour",
+            "certificate_hash": "7de1c5e1a4b5f0ccd6d6c73ce496dcc93b9ed560"
+          }
+        },
+        {
+          "client_id": "419685256119-hcfsnjssv4gjmqi26br692tnukd6rkb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdelrahmanashraf.foolnour",
+            "certificate_hash": "dd51eb658d8006b5b64f32c4247ddf89419113d9"
+          }
+        },
+        {
+          "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8zQo_Tv8IOiF80Hm5YKD_ECVKp3naqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419685256119-bafa5nd6gjedqmm3c6b58f0rq9ijjv8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdelrahmanashraf.foolnour"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419685256119:android:2f0bef05c3a913ed713632",
+        "android_client_info": {
+          "package_name": "com.example.fool_nour_last_gitlap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419685256119-eu79n98fhm7l9n3jec766nrndvl20t8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fool_nour_last_gitlap",
+            "certificate_hash": "63860dd6c1ab3b467193102c20ec60cdf76e68b1"
+          }
+        },
+        {
+          "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8zQo_Tv8IOiF80Hm5YKD_ECVKp3naqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419685256119-bafa5nd6gjedqmm3c6b58f0rq9ijjv8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdelrahmanashraf.foolnour"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
